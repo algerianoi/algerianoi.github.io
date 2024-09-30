@@ -15,20 +15,8 @@ function showSlide(n) {
             logo: "img/IOI.png" 
         },
         {
-            description: "A competition with a higher difficulty than IOI in which countries of central Europe, and some guest countries like Algeria, reale part with a team of 4 students who compete individually.",
-            logo: "img/CEOI.png"
-        },
-        {
-            description: "This competition is held in April of every year in Amman, Jordan in which around 10 Arab countries take part with up to 3 teams of 3 students who work together during the contest, in addition to many Jordanian teams.",
-            logo: "img/AFPC.png"
-        },
-        {
-            description: "A competition with a higher difficulty than IOI in which countries of central Europe, and some guest countries like Algeria, reale part with a team of 4 students who compete individually.",
+            description: "A programming competition organized by European countries similar to IOI, where countries may send up to 4 girls to compete.",
             logo: "img/EGOI.png"
-        },
-        {
-          description: "A 1-day online competition with up to 60 contestants per country who compete individually.",
-          logo: "img/APIO.png"
         }
     ];
     
