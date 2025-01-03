@@ -105,6 +105,8 @@ nav {
     
     transition: all 500ms;
 
+    color: white;
+
 }
 
 .join-btn:hover {
